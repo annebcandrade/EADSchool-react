@@ -61,7 +61,7 @@ export const BtnServices = styled.button`
 
     @media (max-width: 768px) {
     width: 100%; 
-    margin-top: 250px;
+    margin-top: 210px;
     margin-left: 20px;
   }
 `
@@ -71,7 +71,13 @@ export const SelectLinguage = styled.button`
     color: #fff;
     font-family: 'Inter', sans-serif;
     margin-bottom: 20px;
-    cursor:pointer
+    cursor:pointer;
+
+    @media (max-width: 768px) {
+    width: 100%; 
+    margin-top: -790px;
+    margin-left: 90px;
+  }
 `
 
 export const Icons = styled.div`

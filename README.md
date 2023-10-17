@@ -1,5 +1,4 @@
-# Documentação Teste Técnico - Ensinio 
-
+# Documentação Projeto EAD SCHOOL
 
 
 🚀 # Deploy: 
@@ -16,12 +15,6 @@ A página está toda traduzida para as linguagens de português, espanhol e ingl
 
 
 A página também está responsiva, ou seja, se adapta a diversos tamanhos de telas incluindo o mobile. 
-
-
-
-#  🎯 Tomada de Decisões
-Inclui dois modais, um de linguagem e um com as soluções pois tentei que no lugar dos botões fossem select’s, mas ao tentar adicionar imagens ao select(fornecidas de acordo com a interface do Figma) não consegui, então tive a ideia de criar os modais, assim ficaria mais bonito, mais funcional e entregaria uma melhor experiência ao usuário. 
-
 
 
 #  ⚜️ Tecnologias Utilizadas: 
@@ -59,16 +52,6 @@ Logo após a criação e estilização do modal foi dado sua funcionalidade, par
 
 
 5 - Então subi pro github e fiz o deploy na vercel, como o json-server utiliza o localhost para a api fake, em outras telas não estava aparecendo as 3 divs que consomem dados do db.json, então subi um outro arquivo somente com o db.json e fiz o deploy dele também na vercel, editei no meu código o link da api para o link que o vercel me devolveu para que eu conseguisse que com o novo deploy da aplicação as 3 divs funcionassem e aparecessem na tela de qualquer computador/Celular que acessasse seu link de deploy. 
-
-
-
-
-
-# 📧 Considerações Finais
-Espero que vocês gostem do resultado da aplicação, tentei entregar excelência e a melhor experiência quanto a qualidade da experiência do usuário. Tenham certeza que dei o meu máximo. Espero que dê tudo certo, pois será uma grande honra fazer parte do time da Ensinio!
-
-
-
 
 
 # 👩🏻‍💻 Autoria: 

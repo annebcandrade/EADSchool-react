@@ -33,7 +33,7 @@ export const HeaderBlue = styled.div`
    color: #fff;
    background-color: transparent;
    backdrop-filter: blur(90px);
-   gap: 70px;
+   gap: 100px;
    margin-top: 20px;
    font-weight: 500;
    font-size: 15.5px;

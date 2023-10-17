@@ -1,5 +1,4 @@
 
-import Logo from '../../assets/logo.png'
 import Arrow from '../../assets/arrow.png'
 import User from '../../assets/UserProfile.png'
 import Now from '../../assets/btn-now.png'
@@ -38,7 +37,6 @@ function Header(){
         <Background>
         <div className="HeaderBackground"></div>
             <HeaderBlue>
-            <img src={Logo} alt='logo-ensinio' />
            <BtnServices onClick={handleOpenServicosModal}>{t("Servicos")}<img src={Arrow}></img></BtnServices>
             <p>{t("Preços")}</p>
             <p>{t("Academy")}</p>

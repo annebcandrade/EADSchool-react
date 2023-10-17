@@ -1,7 +1,7 @@
 # Documentação Projeto EAD SCHOOL
 
 
-🚀 # Deploy: https://ead-school-react.vercel.app/
+# 🚀 Deploy: https://ead-school-react.vercel.app/
 
 
 

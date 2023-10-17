@@ -20,7 +20,7 @@ A página também está responsiva, ou seja, se adapta a diversos tamanhos de te
 #  ⚜️ Tecnologias Utilizadas: 
 
 
-Aplicação desenvolvia com React com Javascript, StyledComponents, fonts Degular e Inter, imagens fornecidas no link do Figma, i18n para tradução, e hooks para o funcionamento da aplicação. Axios, Json-server para a integração com APi fictícia. 
+Aplicação desenvolvia com React com Javascript, StyledComponents, fonts Degular e Inter, i18n para tradução, e hooks para o funcionamento da aplicação. Axios, Json-server para a integração com APi fictícia. 
 
 Para a hospedagem da aplicação foi utilizado o Vercel. 
 
